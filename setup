@@ -1,0 +1,5 @@
+Install octave
+sudo apt install octave
+sudo apt update 
+sudo apt upgrade octave
+
